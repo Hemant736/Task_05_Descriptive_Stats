@@ -1,1 +1,2 @@
-# Task_05_Descriptive_Stats
+Task_05_Descriptive_Stats
+This repository contains my work analyzing the 2025 Syracuse Women’s Lacrosse season data using a large language model (LLM), specifically Grok 3 from xAI. The goal is to explore how LLMs can answer natural language questions about a small public dataset, focusing on both simple stats and complex strategic insights. I used the team’s season-end statistics (as of May 12, 2025) to test prompt engineering, validate responses, and create visualizations.
